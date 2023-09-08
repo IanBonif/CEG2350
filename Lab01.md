@@ -28,10 +28,11 @@
 ## Part 4 Answers
 
 1. SSH command to sign in to your AWS instance:
-   ssh -i ceg2350.pem ubuntu@54.174.161.38
+   
 
 ```
 **write command here so it will look fancy on GitHub**
+ssh -i ceg2350.pem ubuntu@54.174.161.38
 ```
 
 ## Part 5 Answers
