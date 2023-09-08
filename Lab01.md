@@ -45,4 +45,6 @@ ssh -i ceg2350.pem ubuntu@54.174.161.38
 
 ```
 **write command here so it will look fancy on GitHub**
+ssh-keygen -t ed25519 -C "bonifas.18@wright.edu"
+git clone https://github.com/IanBonif/CEG2350/
 ```
