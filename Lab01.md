@@ -13,17 +13,21 @@
 
 ## Part 2 Answers
 
-1.
+1. cd dirA , vim test.txt 
 2. File contents:
 
 ```
 **file contents here**
+Hello Im Ian Bonifas
+I like c++ over java
+Python is good too
 ```
 
 ## Part 3 Answers
 
-1.
-2.
+1.cp test.txt .hiddentest.txt
+ 
+2.ls -lah
 
 ## Part 4 Answers
 
